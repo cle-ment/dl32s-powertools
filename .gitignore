@@ -1,0 +1,9 @@
+# real show exports and anything derived from them
+data/
+*.dlshow
+!examples/sample.dlshow
+channels.toml
+
+.venv/
+__pycache__/
+.DS_Store

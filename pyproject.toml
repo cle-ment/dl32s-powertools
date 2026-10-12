@@ -1,0 +1,9 @@
+[project]
+name = "dl32s-powertools"
+version = "0.2.0"
+description = "Export channel names and USB routing from Mackie DL32S .dlshow files."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.11"
+dependencies = []
